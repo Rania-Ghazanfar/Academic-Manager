@@ -1,6 +1,6 @@
 # Academic Management System
 
-A Flask-based web application for managing academic activities with three distinct portals: Student, Teacher, and Admin.
+A Flask-based web application with database SQL for managing academic activities with three distinct portals: Student, Teacher, and Admin.
 
 ## Features
 
